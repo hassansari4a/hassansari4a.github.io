@@ -9,7 +9,7 @@ author:
   fullname: Hassan Ansari
   github: hassansari4a
   linkedin: hassansari4a
-  email: hassansair4a@gmail.com
+  email: hassansari4a@gmail.com
 
 
 # Syntax highlighting
@@ -18,5 +18,5 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 
 
 # Build settings
-highlighter: null
+highlighter:  null
 markdown: kramdown

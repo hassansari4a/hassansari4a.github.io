@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Hello, I am Hassan Ansari!
+subtitle: 
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/hassan.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I am a recent graduate with a strong interest in Data Engineering.</p>
+	<p>I am looking for internships to gain hands-on experience and further develop my skills in the field.</p>
 </div>

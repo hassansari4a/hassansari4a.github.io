@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-color: #F7F7F7; }
 
   a {
     color: #57A;
@@ -103,7 +103,7 @@
     color: #828282; }
 
 /* =Post teasers *//*************************************************************/
-  .list-posts {
+  /* .list-posts {
     list-style-type: none;
     padding: 0px; }
 
@@ -130,7 +130,7 @@
     font-size: 150%;
     font-weight: 700;
     color: #333333;
-    text-align: center; }
+    text-align: center; } */
 
 /* =Post page *//*************************************************************/
   .about {
@@ -170,7 +170,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 125px;
+    max-width: 300px;
     margin: auto;
     margin-bottom: 3%;
   }
