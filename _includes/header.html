@@ -1,12 +1,15 @@
 <header class="header">
 <div class="navigation">
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+<!-- <ul class="menu">
+<li class="menu__entry"><a href="assets/docs/Hassan_Ansari_Resume.pdf">Resume</a></li>
 <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
-</ul>
+</ul> -->
 </div>
 <ul class="social-links">
+<a href="assets/docs/Hassan_Ansari_Resume.pdf" target="_blank">
+<i class="fa fa-file"></i>
+</a>
 {% if site.author.email %}
 <a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
 <i class="fa fa-envelope-square"></i>
