@@ -53,13 +53,22 @@
     overflow: hidden; }
 
   .navigation {
-    float: left; }
+    float: left; 
+  }
 
   .logo {
     font-size: 300%;
     font-weight: 700;
     color: #16a085;
-    display: block; }
+    display: block; 
+    cursor: pointer;
+    z-index: 1;
+  }
+  
+  .logo img {
+    max-width: 65px;
+    cursor: pointer;
+  }
 
   .menu {
     color: #828282;
@@ -189,6 +198,10 @@
     .wrapper {
       width: 90%;
       margin: 15px auto; }
+
+    .navigation .logo img {
+      margin: auto;
+    }
 
     .navigation,
     .social-links {
