@@ -4,7 +4,9 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #F7F7F7; }
+    background-color: #F7F7F7; 
+    background: url('https://www.toptal.com/designers/subtlepatterns/uploads/geometry2.png');
+  }
 
   a {
     color: #57A;
